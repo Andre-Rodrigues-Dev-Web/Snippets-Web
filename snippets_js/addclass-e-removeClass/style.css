@@ -1,0 +1,15 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*Muda cor*/
+.muda_cor {
+  background-color: red;
+  color: #fff;
+  padding: 1rem;
+}
+.cor_preta {
+  background-color: #333;
+}
