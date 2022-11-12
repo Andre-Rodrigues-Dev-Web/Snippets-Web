@@ -4,6 +4,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+/*Buttons*/
+button {
+  padding: 10px 20px;
+  border: none;
+  background: #fff;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px 0;
+}
 /*Muda cor*/
 .muda_cor {
   background-color: red;
